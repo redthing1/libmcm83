@@ -1,0 +1,3 @@
+[submodule "deps/mcm"]
+	path = deps/mcm
+	url = https://github.com/redthing1/mcm
